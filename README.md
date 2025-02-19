@@ -87,7 +87,7 @@ The project is organized as follows:
 - Axios (for Gemini API integration)
 
 ### API Integration
-- Gemini API (for personalized learning path data)
+- Gemini API [for personalized learning path data]
 
 ---
 
