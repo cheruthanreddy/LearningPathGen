@@ -36,7 +36,7 @@ See it in action!
 Watch the demonstration video to explore the features of the Personalized Learning Path Generator in detail:
 
 <section id="demo">
-    <a href="https://drive.google.com/file/d/1yQFCRJFttThpUIuyCduY-Azk2bvFO_g0/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Click Here</a>
+    <a href="https://drive.google.com/file/d/11Y4DIwAtnf9UFJn2p-kRBl05vI0sb0uN/view" target="_blank" rel="noopener noreferrer">Click Here</a>
 </section>
 
 ## Screens
